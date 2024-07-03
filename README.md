@@ -1,0 +1,1 @@
+This project is about creating the index page which will contain several links to differenct recipes.
