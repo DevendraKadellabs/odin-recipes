@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    background-color: gray;
+  
+ 
+}
+
+h1{
+    color: darkkhaki;
+    border: 50px green;
+    font-size: 100px;
+    padding: 10px;
+    margin: 20px;
+    
+}
+ul{
+    display: flex;
+    color: lightgray;
+    margin: 40px;
+}
+
+li{
+    flex: 1;
+    margin: 20px;
+    padding: 40px;
+    border: 30px yellowgreen;
+   
+}
+a{
+    border: 20px white;
+    color: aquamarine;
+    padding: 20px;
+    font-size: large;
+    font-weight: 500;
+    
+}
